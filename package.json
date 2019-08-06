@@ -2,7 +2,7 @@
   "name": "reactapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://tranguyen123.github.io/clicky-Game",
+  "homepage": "http://tranguyen123.github.io/memo-game",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -24,11 +24,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tranguyen123/animal-clicky-game.git"
+    "url": "git+https://github.com/tranguyen123/memo-game.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tranguyen123/animal-clicky-game/issues"
+    "url": "https://github.com/tranguyen123/memo-game/issues"
   }
 }
